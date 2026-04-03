@@ -24,7 +24,7 @@ repository               : "zw021029.github.io/www2uok.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Wei Zuo"
+  name             : "Wei Zuo(左维)"
   pronouns         : # example: "she/her"  
   bio              : "A Ph.D. Student at Shanghai University"
   location         : "Shanghai, China"
@@ -220,19 +220,21 @@ kramdown:
 
 
 # These settings control the types of collections used by the template
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+# 下面内容注释掉
+# collections:
+#  teaching:
+#    output: true
+#    permalink: /:collection/:path/
+#  publications:
+#    output: true
+#    permalink: /:collection/:path/
+#  portfolio:
+#    output: true
+#   permalink: /:collection/:path/
+#  talks:
+#    output: true
+#    permalink: /:collection/:path/
+
 
 
 # These settings control how pages and collections are included in the site
