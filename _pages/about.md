@@ -12,10 +12,12 @@ I am Wei Zuo（左维）, a Ph.D. student at the School of Computer Engineering 
 Bridging the gap between business/science insights and technical rigor, <br>
 my research interests focus on: Data Quality and Governance, Neuro-symbolic Machine Learning, Information Theory, Statistical Modeling, and Consumer Market Research.
 
-A pessimistic [idealist](https://mp.weixin.qq.com/s/kIz-JT5ikwCmrfj8h-WErQ) | ENFJ/INTJ /
+A pessimistic [idealist](https://mp.weixin.qq.com/s/kIz-JT5ikwCmrfj8h-WErQ) | ENFJ/INTJ<br>
 🐈 Proud owner of a Devon Rex (Tiantian).<br>
 🎨 History & Art enthusiast with a focus on East-West cultural nuances.<br>
 🌐 Polyglot (CN/EN/FR/KR/DE).<br>
 🎹 Musician & Composer Beginner.<br>
 🏸 Badminton, Swimming, Running. <br>
-✈️ Traveling & Staycation regularly (check the map!).<br>
+✈️ Traveling & Staycation regularly.<br>
+
+Our deeds shall echo through the corridors of time.
